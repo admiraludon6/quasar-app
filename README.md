@@ -4,7 +4,7 @@ A Quasar Framework app
 
 ## Clone the repository 
 ```bash
-git clone git@github.com:ahmadudon6/quasar-app.git
+git clone https://github.com/ahmadudon6/quasar-app.git
 ```
 
 ## Install the dependencies
